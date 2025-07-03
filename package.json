@@ -1,0 +1,23 @@
+{
+  "name": "spring3-tp1",
+  "version": "1.0.0",
+  "description": "Diplomatira FullStack",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BraianSalavarria/Spring-3-tp-1.git"
+  },
+  "author": "Braian Salavarria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BraianSalavarria/Spring-3-tp-1/issues"
+  },
+  "homepage": "https://github.com/BraianSalavarria/Spring-3-tp-1#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
+  }
+}

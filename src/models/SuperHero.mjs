@@ -14,5 +14,5 @@ const superheroSchema = new mongoose.Schema(
         createAt: {type: Date, default: Date.now}
     });
     
-    const superHero = mongoose.model('SuperHero', superheroSchema, 'Grupo-16');
+    const superHero = mongoose.model('SuperHero', superheroSchema, 'Grupo-17');
     export default superHero;
